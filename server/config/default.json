@@ -1,0 +1,5 @@
+{
+    "PORT" : "3000",
+    "DB_URI": "mongodb+srv://syedmusaib428:saboor@skygoal.bvxgvfi.mongodb.net/user"
+
+}
